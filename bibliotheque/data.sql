@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS emprunt (
     id_livre INTEGER DEFAULT NULL,
     id_abonne INTEGER DEFAULT NULL,
     date_sortie DATE NOT NULL,
-    date_rendu DATE DEFAULT NULL,
+    date_rendu DATE DEFAULT NULL
 );
 
 INSERT INTO emprunt (id_livre,id_abonne,date_sortie,date_rendu) VALUES
