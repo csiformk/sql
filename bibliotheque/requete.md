@@ -1,0 +1,10 @@
+- Quel sont les livres que l'abonné 2 est venu emprunter le livre à quel date (date de sortie) ?
+- Combien d'emprunt ont été effectué en tout ?
+- Combien de livres sont sortis le 2011-12-19?
+- Quel est l'auteur du livre "Une vie"?
+- De combien de livres d'Alexandre Dumas dispose-t-on?
+- Quel id_livre est le plus emprunté?
+- Afficher le nombre de sorties de livre regroupées par id_livre
+- Quel id_abonne empunte le plus de livre ?
+- Afficher le numéro des livres que Chloé a emprunté ?
+- Afficher le titre des livres que Chloé a emprunté ?
